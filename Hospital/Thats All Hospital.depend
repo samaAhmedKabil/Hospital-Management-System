@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672515085 source:d:\cs acu\projects\pharmasist2\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<windows.h>
+
